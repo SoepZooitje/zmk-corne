@@ -121,7 +121,7 @@
             bindings = <
 &trans            &kp EXCL  &kp AT  &kp HASH   &kp DLLR  &kp PRCNT                            &mmv MOVE_UP                     &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp DELETE
 &kp LEFT_CONTROL  &kp F1    &kp F2  &kp F4     &kp F11   &kp F12              &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp MINUS  &kp EQUAL  &kp LBKT   &kp RBKT  &kp BSLH  &kp GRAVE
-&trans            &none     &none   &none      &none     &none      &trans                    &mmv MOVE_DOWN                   &kp UNDER  &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp TILDE
+&trans            &none     &none   &none      &kp F9    &none      &trans                    &mmv MOVE_DOWN                   &kp UNDER  &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp TILDE
                                     &kp LCTRL  &trans    &kp SPACE                                                             &kp RET    &trans     &kp RGUI
             >;
 
