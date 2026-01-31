@@ -180,8 +180,8 @@ layers:
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - OUT USB
   - $$mdi:progress-download$$
-  - OUT USB
-  - '&mkp MB5'
+  - OUT BLE
+  - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
